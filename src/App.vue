@@ -13,7 +13,7 @@ export default {
   data() {
     return {
       message:
-        " this is super duper fun working with vue.....codebox,github, and netlify is a great workflow choice",
+        " this is super duper fun working with vue.....codesandbox,github, and netlify is a great workflow choice",
       avatar: "http://placekitten.com/g/300/300"
     };
   },
