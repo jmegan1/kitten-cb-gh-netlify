@@ -12,7 +12,7 @@ export default {
   name: "App",
   data() {
     return {
-      message: " this is super duper fun working in vue",
+      message: " this is super duper fun working with vue",
       avatar: "http://placekitten.com/g/300/300"
     };
   },
