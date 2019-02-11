@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img width="25%" :src="avatar" /> {{ message }}
-    <button @click="sayHello">click me sucka</button>
+    <button @click="sayHello">click me</button>
   </div>
 </template>
 
